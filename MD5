@@ -1,0 +1,17 @@
+325820333d9a7c34ce916f6b1c86fb02 *DESCRIPTION
+794a215dfcbe1c3dc9b014a3e335031d *LICENSE
+84f969c77dc789a8a468de05da68c76d *NAMESPACE
+60f2fee62634af7ca4c5f9deb11f3f54 *NEWS.md
+367201dff60fe26b330ce384c7d89ce9 *R/print_and_pipe.R
+db85598990a70982b5b0b5921e19e8c7 *R/print_pipe_steps.R
+02e1c25cf8080e1c864ab2d29e75baa7 *R/rstudio_addins.R
+47a47aa8dd293fd898b858d93c86e093 *R/utilits.R
+843ab60808b95288e6320bebddbb268e *R/viewPipeChain.R
+cc7a719927df17b9b05c05405329d585 *README.md
+04f0bc98f7ddf746af4d4c9b746e2427 *inst/daranzolin_ViewPipeSteps.gif
+99a81a387bbf501767c2c82719b21573 *inst/rstudio/addins.dcf
+a44a824bc4add568901020406e7db301 *man/figures/logo.png
+4690567c0e04811cfd37ffd1fd60ec0a *man/printPipeChain.Rd
+7a2b29c39f8ff740ffa5df360c6b0840 *man/print_and_pipe.Rd
+e0947fead4d6f260e61ad6112d484882 *man/print_pipe_steps.Rd
+3158f0ffdd2ee12d1e816e25cc8abf1a *man/viewPipeChain.Rd
